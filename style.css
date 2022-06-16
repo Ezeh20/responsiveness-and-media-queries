@@ -39,7 +39,7 @@ body{
     font-weight: var(--font-normal);
     color: var(--input-color);
     display: grid;
-    background: url(/assets/images/bg-intro-mobile.png) var(--primary-color-red)
+    background: url(/images/bg-intro-mobile.png) var(--primary-color-red)
 }
 h1{
     color: var(--white-color);
@@ -228,7 +228,7 @@ input{
         margin-top:-.5rem;
     }
     body{
-        background: url(/assets/images/bg-intro-desktop.png) var(--primary-color-red)
+        background: url(/images/bg-intro-desktop.png) var(--primary-color-red)
     }
     .top{
         padding: 1rem 2rem;
